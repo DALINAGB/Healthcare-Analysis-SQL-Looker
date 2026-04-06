@@ -15,3 +15,5 @@ Este proyecto utiliza datos de **Synthea (vía Kaggle)** para simular un anális
 
 ### 📊 Dashboard Interactivo
 Puedes interactuar con los datos aquí: (https://lookerstudio.google.com/s/uRsDpJj75Cc)
+
+![Top 10 Diagnósticos](assets/Healthcare-Analysis_Casos_por_Diagnostico.png)
