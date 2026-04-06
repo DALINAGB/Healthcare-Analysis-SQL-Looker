@@ -27,5 +27,5 @@ Puedes interactuar con los datos aquí: (https://lookerstudio.google.com/s/uRsDp
 *Cruce de variables demográficas para entender el perfil del paciente de la clínica.*
 
 ### 3. Mapa de Carga Operativa (Treemap)
-![Mapa de Rectángulos](assets/Healthcare-Analysis_Gráfico_de_rectángulos.png)
+![Mapa de Rectángulos](assets/treemap.png)
 *Visualización proporcional del volumen de registros por diagnóstico.*
