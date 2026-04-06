@@ -19,7 +19,7 @@ Puedes interactuar con los datos aquí: (https://lookerstudio.google.com/s/uRsDp
 ## Visualización de Datos
 
 ### 1. Top 10 Diagnósticos (Carga Clínica)
-![Top 10 Diagnósticos](assets/Healthcare-Analysis_Casos_por_Diagnostico.png)
+![Top 10 Diagnósticos](assets/casos_por_diagnostico.png)
 *Análisis de las principales causas de consulta en la población estudiada.*
 
 ### 2. Distribución Poblacional por Género y Edad
