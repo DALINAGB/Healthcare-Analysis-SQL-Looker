@@ -16,4 +16,16 @@ Este proyecto utiliza datos de **Synthea (vía Kaggle)** para simular un anális
 ### 📊 Dashboard Interactivo
 Puedes interactuar con los datos aquí: (https://lookerstudio.google.com/s/uRsDpJj75Cc)
 
+## Visualización de Datos
+
+### 1. Top 10 Diagnósticos (Carga Clínica)
 ![Top 10 Diagnósticos](assets/Healthcare-Analysis_Casos_por_Diagnostico.png)
+*Análisis de las principales causas de consulta en la población estudiada.*
+
+### 2. Distribución Poblacional por Género y Edad
+![Distribución Etaria](assets/Healthcare-Analysis_Gráfico_de_barras.png)
+*Cruce de variables demográficas para entender el perfil del paciente de la clínica.*
+
+### 3. Mapa de Carga Operativa (Treemap)
+![Mapa de Rectángulos](assets/Healthcare-Analysis_Gráfico_de_rectángulos.png)
+*Visualización proporcional del volumen de registros por diagnóstico.*
