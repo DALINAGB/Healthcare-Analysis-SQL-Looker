@@ -23,7 +23,7 @@ Puedes interactuar con los datos aquí: (https://lookerstudio.google.com/s/uRsDp
 *Análisis de las principales causas de consulta en la población estudiada.*
 
 ### 2. Distribución Poblacional por Género y Edad
-![Distribución Etaria](assets/Healthcare-Analysis_Gráfico_de_barras.png)
+![Distribución Etaria](assets/distribucion_etaria.png)
 *Cruce de variables demográficas para entender el perfil del paciente de la clínica.*
 
 ### 3. Mapa de Carga Operativa (Treemap)
