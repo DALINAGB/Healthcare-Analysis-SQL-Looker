@@ -14,4 +14,4 @@ Este proyecto utiliza datos de **Synthea (vía Kaggle)** para simular un anális
 3. **Perfil del Paciente:** El 60% de la población de "Alto Costo" (múltiples diagnósticos) se concentra en el segmento Adulto Maduro.
 
 ### 📊 Dashboard Interactivo
-Puedes interactuar con los datos aquí: [[(https://lookerstudio.google.com/s/uRsDpJj75Cc)]]
+Puedes interactuar con los datos aquí: (https://lookerstudio.google.com/s/uRsDpJj75Cc)
